@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c749116fe2692fb45828482332e77212, type: 3}
+  m_Name: Bad Ending
+  m_EditorClassIdentifier: 
+  storyText: "Te ofrecieron trabajo en el IMSS por 15 mil varos la quincena contando
+    horas extras y te rifaste. Despu\xE9s decidiste ir a Deutschland a trabajar de
+    enfermera y a\xF1os despu\xE9s te topaste a Axel porque tambi\xE9n se fue de
+    ingeniero, son roomies y eres el orgullo de tus t\xEDos.  \r\n\r\n1.- Continuar"
+  nextStates:
+  - {fileID: 11400000, guid: e79479a69f300ec439a2a19ca2a930e1, type: 2}

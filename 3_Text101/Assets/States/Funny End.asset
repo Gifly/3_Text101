@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c749116fe2692fb45828482332e77212, type: 3}
+  m_Name: Funny End
+  m_EditorClassIdentifier: 
+  storyText: "No pudiste m\xE1s, Montano es una persona tan divertida que ca\xEDste
+    a sus pies sin remedio alguno. Se lo dijiste y la sorpresa de que alguien le
+    haya declarado su amor lo dej\xF3 shockeado. Empezaron una relaci\xF3n muy graciosa
+    y todos los d\xEDas te duele la panza de tanto re\xEDrte \r\n\r\n(no me pegues,
+    no se me ocurri\xF3 nada xd)\r\n\r\n1.- Continuar"
+  nextStates:
+  - {fileID: 11400000, guid: e79479a69f300ec439a2a19ca2a930e1, type: 2}

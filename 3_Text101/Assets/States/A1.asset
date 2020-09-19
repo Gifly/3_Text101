@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c749116fe2692fb45828482332e77212, type: 3}
+  m_Name: A1
+  m_EditorClassIdentifier: 
+  storyText: "Despiertas en la ma\xF1ana somnolienta. Nacho no se ha despertado y
+    tu jefa ya se va. Est\xE1s lo suficientemente despierta como para no dormirte
+    de nuevo pero suficientemente dormida para no hacer nada, te quedas viendo a
+    la chancla un buen rato despu\xE9s de haber puesto la alarma.\r\n\r\n1.- Continuar "
+  nextStates:
+  - {fileID: 11400000, guid: bd8d6671a4142d34a8f13f868992d654, type: 2}
